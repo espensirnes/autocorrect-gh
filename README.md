@@ -15,7 +15,7 @@ REQUIRES THAT
        ii) with name repo_name
 
 4. A valid token
-    go to "https://github.com/settings/tokens/new" to get a token
+   go to "https://github.com/settings/tokens/new" to get a token
 
 5. A correct answer file has been created:
      a) a python file (*.py)
