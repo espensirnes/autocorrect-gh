@@ -3,21 +3,18 @@
 REQUIRES THAT 
 1. Git is installed
 
-2. All names are in smallcaps without spaces
+2. An assignment has been created:
+      a) A repo has been created with name 
+          i) for organization org_name
+          ii) with name repo_name
+          iii) as a template
+      b) An assignment has been created in github classroom for the above repo
+          i) for organization org_name
+          ii) with name repo_name
 
-3. An assignment has been created:
-   a) A repo has been created with name 
-       i) for organization org_name
-       ii) with name repo_name
-       iii) as a template
-   b) An assignment has been created in github classroom for the above repo
-       i) for organization org_name
-       ii) with name repo_name
+3. A valid token. Go to "https://github.com/settings/tokens/new" to get a token
 
-4. A valid token
-   go to "https://github.com/settings/tokens/new" to get a token
-
-5. A correct answer file has been created:
+4. A correct answer file has been created:
      a) a python file (*.py)
      b) in this folder
      c) with name repo_name
