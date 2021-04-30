@@ -1,7 +1,7 @@
 # autocorrect_gh
 
 REQUIRES THAT 
-1. GIT IS INSTALLED
+1. Git is installed
 
 2. All names are in smallcaps without spaces
 
